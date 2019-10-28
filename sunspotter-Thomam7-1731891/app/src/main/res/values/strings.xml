@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sunspotter</string>
+    <string name="OPEN_WEATHER_MAP_API_KEY">6ce003b030bff85e9d8da1f691163f0d</string>
+    <string name="search">FIND SUN!</string>
+    <string name="hint">Enter City</string>
+    <string name="imageDescription">Indicator whether or not it is good weather</string>
+</resources>
